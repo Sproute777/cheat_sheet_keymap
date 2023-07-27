@@ -19,4 +19,9 @@ plugins: \
 Chrome \
   https://chrome.google.com/webstore/detail/vimium-c-all-by-keyboard/hfjbmagddngcpeloejdejnfgbamkjaeg?hl=ru \
 
-  
+github.dev 
+    <details>
+        <summary>keybinding.json</summary>       
+    [ {"key": "ctrl+n",  "command": "explorer.newFile",  "when": "!editorFocus" },
+      {"key": "ctrl+shift+n", "command": "explorer.newFolder",  "when": "!editorFocus"} ]     
+    </details>  
