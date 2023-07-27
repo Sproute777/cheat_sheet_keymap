@@ -12,9 +12,9 @@ AndroidStudio
 
 VScode or github.dev
 plugins: 
-  **IntelliJ IDEA Keybindings** https://marketplace.visualstudio.com/items?itemName=k--kato.intellij-idea-keybindings \n
-  **VSCode Neovim** https://marketplace.visualstudio.com/items?itemName=asvetliakov.vscode-neovim \n
-  **Bookmarks** https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks \n
+  **IntelliJ IDEA Keybindings** https://marketplace.visualstudio.com/items?itemName=k--kato.intellij-idea-keybindings /n
+  **VSCode Neovim** https://marketplace.visualstudio.com/items?itemName=asvetliakov.vscode-neovim /n
+  **Bookmarks** https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks /n
 
 Chrome
   https://chrome.google.com/webstore/detail/vimium-c-all-by-keyboard/hfjbmagddngcpeloejdejnfgbamkjaeg?hl=ru
