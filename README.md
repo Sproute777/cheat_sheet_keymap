@@ -19,29 +19,27 @@ plugins: \
 Chrome \
   https://chrome.google.com/webstore/detail/vimium-c-all-by-keyboard/hfjbmagddngcpeloejdejnfgbamkjaeg?hl=ru \
 
-    <details>
-        <summary>github.dev  keybinding.json</summary>       
-    [ {"key": "ctrl+n",  "command": "explorer.newFile",  "when": "!editorFocus" },
-      {"key": "ctrl+shift+n", "command": "explorer.newFolder",  "when": "!editorFocus"} ]     
-    </details>  
-      <details>
-        <summary>vscode  keybinding.json</summary>       
-  [
-    {
-        "key": "cmd+n",
-        "command": "explorer.newFile",
-        "when": "!editorFocus"
-    },
-    {
-        "key": "cmd+shift+n",
-        "command": "explorer.newFolder",
-        "when": "!editorFocus"
-    },
+
+<details> 
+    <summary>**github.dev** keybinding.json</summary>       
+  <pre>
+     [
+     {"key": "ctrl+n",  "command": "explorer.newFile",  "when": "!editorFocus" },
+     {"key": "ctrl+shift+n", "command": "explorer.newFolder",  "when": "!editorFocus"} 
+     ]
+  </pre>
    
-    {
-        "key": "cmd+f3",
-        "command": "workbench.view.extension.bookmarks"
-    }
+
+    </details>  
     
-]    
+<details>
+    <summary>**vscode** keybinding.json</summary> 
+   <pre>
+     [
+     {"key": "cmd+n", "command": "explorer.newFile",  "when": "!editorFocus" },
+     {"key": "cmd+shift+n", "command": "explorer.newFolder", "when": "!editorFocus" },
+     {"key": "cmd+f3", "command": "workbench.view.extension.bookmarks"}   
+     ]   
+   </pre>      
+     
     </details>  
