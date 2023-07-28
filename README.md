@@ -21,25 +21,22 @@ Chrome \
 
 
 <details> 
-    <summary>**github.dev** keybinding.json</summary>       
+    <summary>github.dev keybinding.json</summary>       
   <pre>
      [
      {"key": "ctrl+n",  "command": "explorer.newFile",  "when": "!editorFocus" },
      {"key": "ctrl+shift+n", "command": "explorer.newFolder",  "when": "!editorFocus"} 
      ]
   </pre>
-   
-
     </details>  
     
 <details>
-    <summary>**vscode** keybinding.json</summary> 
+    <summary>vscod keybinding.json</summary> 
    <pre>
      [
      {"key": "cmd+n", "command": "explorer.newFile",  "when": "!editorFocus" },
      {"key": "cmd+shift+n", "command": "explorer.newFolder", "when": "!editorFocus" },
      {"key": "cmd+f3", "command": "workbench.view.extension.bookmarks"}   
      ]   
-   </pre>      
-     
+   </pre>         
     </details>  
